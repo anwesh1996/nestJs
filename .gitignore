@@ -64,3 +64,5 @@ typings/
 
 #IDE
 .vscode
+
+dist
